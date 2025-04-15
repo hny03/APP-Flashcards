@@ -20,7 +20,7 @@
 - [ ] Criar endpoints e definir estrutura
 - [ ] Estudar a implementação da API
 
-- [ ] Reunião semanal (Todos)
+- [X] Reunião semanal (Todos)
 
 ---
 
@@ -66,6 +66,3 @@
 - [ ] Montar apresentação final
 - [ ] Validar versão final
 
----
-
-> Atualize as caixas de seleção conforme as tarefas forem sendo concluídas! 💪
